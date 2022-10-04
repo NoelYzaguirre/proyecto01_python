@@ -1,0 +1,5 @@
+/venv/
+/pyenv-virtualenv/
+/model/
+__pycache__
+/.mypy_cache
